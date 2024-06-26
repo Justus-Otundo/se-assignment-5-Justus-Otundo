@@ -63,7 +63,6 @@ Steps to download and install Visual Studio Code on Windows 10:
    - Select additional tasks like creating a desktop icon, adding to the PATH (important for command line usage), and registering the context menu entries for the Explorer.
    - Click "Install" to begin the installation process.
    - Once the installation is complete, click "Finish" to launch VS Code.
-
 2. First-time Setup:
 Initial configurations and settings for an optimal coding environment:
 1. Theme:
